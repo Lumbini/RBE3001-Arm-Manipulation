@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+		<item value="git.eclipse.org"/>
+		<item value="fusion.wpi.edu"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://lparnas@fusion.wpi.edu/git/3001team11a16/3001team11a16.git"/>
+		<item value="https://lparnas@fusion.wpi.edu/git/rbelib16-17/rbelib16-17.git"/>
+	</list>
+</section>
